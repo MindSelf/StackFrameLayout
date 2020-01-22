@@ -1,0 +1,2 @@
+# StackFrameLayout
+将View于Model解耦开来，根据传入的Stack数据驱动View进行入栈、出栈动画
