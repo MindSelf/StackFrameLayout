@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.example.stackuplayout.StackFrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/stack_layout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/darker_gray"
+    app:stack_gap="12dp"
+    app:stack_duration="200"
+    app:stack_backview_alpha="0.6"
+    app:stack_backview_scale="0.9"/>

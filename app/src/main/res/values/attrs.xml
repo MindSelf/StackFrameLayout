@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="StackFrameLayout">
+        <!--        frontView 与 backView的间距-->
+        <attr name="stack_gap" format="dimension" />
+        <attr name="stack_backview_scale" format="float" />
+        <attr name="stack_backview_alpha" format="float" />
+        <attr name="stack_duration" format="integer" />
+    </declare-styleable>
+</resources>
